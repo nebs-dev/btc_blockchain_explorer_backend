@@ -22,7 +22,7 @@ To get started with the backend app, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-   git clone <repository-url
+   git clone btc_blockchain_explorer_backend
 ```
 
 2. Navigate to the project directory:
