@@ -1,0 +1,13 @@
+version: '3'
+services:
+  database:
+    image: mongo
+    ports:
+      - 27017:27017
+
+  database_test:
+    image: mongo
+    environment:
+      MONGO_INITDB_DATABASE: crypto_app_test
+    ports:
+      - 27018:27017
