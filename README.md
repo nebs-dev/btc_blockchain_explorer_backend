@@ -1,6 +1,6 @@
-# Backend Crypto App
+# Backend BTC Blockchain Explorer
 
-This is the backend component of the Crypto App project. It provides the necessary APIs and services for managing cryptocurrency data.
+This is the backend component of the BTC Blockchain Explorer project. It provides the necessary APIs and services for managing cryptocurrency data.
 
 ## Technologies Used
 
